@@ -218,53 +218,6 @@ Data Analysis - Intermediate
 Web Development - Beginner
 ```
 
-## 💡 Key Data Analysis Concepts Demonstrated
-
-* Excel data ingestion
-* Data filtering
-* Column selection
-* String-based filtering
-* Data transformation
-* Feature extraction
-* Skill-level encoding
-* Group-by aggregation
-* Automated Excel reporting
-* Timestamp-based file generation
-* Pie chart visualization
-* Bar chart visualization
-* Command-line interaction
-
-## 🧠 Skills Demonstrated
-
-**Programming**
-
-* Python
-* Functions
-* Conditional logic
-* User input
-* File handling
-
-**Data Analysis**
-
-* Pandas
-* Data filtering
-* Data transformation
-* Grouping and aggregation
-* Structured dataset processing
-
-**Data Visualization**
-
-* Matplotlib
-* Pie charts
-* Bar charts
-* Skill distribution analysis
-
-**Data Reporting**
-
-* Excel
-* Automated output generation
-* Timestamped reports
-
 ## 🔐 Data Privacy
 
 The project processes candidate information from Excel files. When publishing this project publicly on GitHub, avoid committing real **mobile numbers or other personally identifiable information**.
@@ -346,5 +299,3 @@ Computer Engineering | Data Analytics | Python | SQL | Power BI | Data Visualiza
 * AI-driven Applications
 
 ---
-
-⭐ **If you find this project useful, consider giving the repository a star!**
