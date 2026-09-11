@@ -1,4 +1,4 @@
-# 📊  Data Visualization  ( Data Analyst & Candidate Selection )
+# 📊  Data Visualization  ( Data Analysis & Candidate Selection )
 
 A Python-based **Data Visualization and Candidate Selection Tool** that processes structured Excel data to identify candidates with **Data Analysis** skills, generate a shortlist of the top 5 matching records, export the results to Excel, and visualize candidate skill information using charts.
 
@@ -287,15 +287,4 @@ A production-ready version could help recruiters or analysts:
 **Niranjan Kadam**
 
 Computer Engineering | Data Analytics | Python | SQL | Power BI | Data Visualization
-
-### Core Interests
-
-* Data Analytics
-* Data Visualization
-* Python Development
-* Business Intelligence
-* SQL & Database Analytics
-* Machine Learning
-* AI-driven Applications
-
 ---
