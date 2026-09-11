@@ -1,4 +1,4 @@
-# 📊 Data Analyst Candidate Selection & Data Visualization
+# 📊  Data Visualization  ( Data Analyst & Candidate Selection )
 
 A Python-based **Data Visualization and Candidate Selection Tool** that processes structured Excel data to identify candidates with **Data Analysis** skills, generate a shortlist of the top 5 matching records, export the results to Excel, and visualize candidate skill information using charts.
 
@@ -160,7 +160,7 @@ pip install pandas matplotlib openpyxl
 Clone the repository:
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/mugiwaras09/Data_Visualization.git
 ```
 
 Navigate to the project directory:
